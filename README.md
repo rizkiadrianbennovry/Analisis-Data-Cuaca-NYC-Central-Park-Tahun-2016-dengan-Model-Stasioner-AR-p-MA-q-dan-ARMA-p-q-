@@ -1,0 +1,1 @@
+# Analisis-Data-Cuaca-NYC-Central-Park-Tahun-2016-dengan-Model-Stasioner-AR-p-MA-q-dan-ARMA-p-q-
